@@ -11,8 +11,6 @@ btn.addEventListener('click', ()=> {
             setTimeout(() => {
                 third.style.color= 'yellow'
             }, 1000);
-
            }, 3000);
-
         }, 2000);
     })
